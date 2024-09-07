@@ -1,0 +1,24 @@
+{
+  "id": "Zorkaires_1504-70-592",
+  "name": "Zorkaires",
+  "groupName": ":Waystones",
+  "displayId": "77c843dc-a5f7-4d24-84b7-e61e2eeb8297",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": 1504,
+  "y": 70,
+  "z": -592,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": false,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "Spawn_-41-70-13",
+  "name": "Spawn",
+  "groupName": ":Waystones",
+  "displayId": "9f3dd203-72bc-4a91-af33-d8e50be6ff62",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": -41,
+  "y": 70,
+  "z": 13,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": false,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

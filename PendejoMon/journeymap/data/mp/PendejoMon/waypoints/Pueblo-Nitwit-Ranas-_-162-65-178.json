@@ -1,0 +1,24 @@
+{
+  "id": "Pueblo-Nitwit-Ranas-_-162-65-178",
+  "name": "Pueblo Nitwit (Ranas)",
+  "groupName": ":Waystones",
+  "displayId": "a4eed27c-54ac-48b9-a8cb-2678f4f5458d",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": -162,
+  "y": 65,
+  "z": -178,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": false,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

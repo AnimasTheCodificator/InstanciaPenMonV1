@@ -1,0 +1,24 @@
+{
+  "id": "Asentamiento-de-Cain_530-70-777",
+  "name": "Asentamiento de Cain",
+  "groupName": ":Waystones",
+  "displayId": "af5051d1-d942-4e3e-b2aa-388117c1a4fa",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": 530,
+  "y": 70,
+  "z": 777,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": false,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

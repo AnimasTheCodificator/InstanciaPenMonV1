@@ -1,0 +1,24 @@
+{
+  "id": "Catedral-de-Akram_-2164-243-5572",
+  "name": "Catedral de Akram",
+  "groupName": ":Waystones",
+  "displayId": "70dcc623-0b43-4501-9574-74f773fd3dd2",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": -2164,
+  "y": 243,
+  "z": 5572,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": false,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

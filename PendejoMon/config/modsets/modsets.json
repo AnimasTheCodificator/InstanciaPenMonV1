@@ -1,0 +1,22 @@
+{
+    "optimized": {
+        "text": {
+            "text": "Optimizado"
+        },
+        "description": {
+            "text": "Performance: +++++"
+        },
+        "mods": [
+            "embidium"
+        ]
+    },
+    "sodium": {
+        "text": {
+            "text": "Bonito <3"
+        },
+        "description": {
+            "text": "Performance: ----"
+        },
+        "mods": []
+    }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "Casa-Movi-Yuiko-3_477-68-783",
+  "name": "Casa Movi/Yuiko \u003c3",
+  "groupName": ":Waystones",
+  "displayId": "cf6370fa-954c-4347-88a3-c327c283a7d3",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": 477,
+  "y": 68,
+  "z": -783,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": false,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

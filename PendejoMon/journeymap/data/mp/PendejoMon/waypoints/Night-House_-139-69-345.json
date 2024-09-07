@@ -1,0 +1,24 @@
+{
+  "id": "Night-House_-139-69-345",
+  "name": "Night House",
+  "groupName": ":Waystones",
+  "displayId": "50f6bcae-49e3-4bca-8095-69189fc992c5",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": -139,
+  "y": 69,
+  "z": 345,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": false,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

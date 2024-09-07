@@ -1,0 +1,88 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = %fancymenu:universal_layout%
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1725668657182
+  is_enabled = false
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:2cabba3a-aa51-42ec-abc2-9f954a7bd976-1725733889536] = [groups:][instances:]
+}
+
+customization {
+  action = setcloseaudio
+  path = [source:local]/config/fancymenu/assets/confirmmenu.ogg
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}
+
+element {
+  button_element_executable_block_identifier = 01e05399-f42a-488d-8b8f-68211ddc23ca-1725662751559
+  [executable_action_instance:fee0e317-c287-4197-9567-bed999ee04fa-1725662814841][action_type:joinserver] = PendejoMon.aternos.me
+  [executable_action_instance:66b4e07a-3c6b-426e-9e00-49d528207d50-1725664113563][action_type:disable_layout] = menu_trest
+  [executable_block:01e05399-f42a-488d-8b8f-68211ddc23ca-1725662751559][type:generic] = [executables:fee0e317-c287-4197-9567-bed999ee04fa-1725662814841;66b4e07a-3c6b-426e-9e00-49d528207d50-1725664113563;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = Unirse al server
+  navigatable = false
+  element_type = custom_button
+  instance_identifier = c4d05657-9966-40fe-a3c0-19628f00550c-1725663588066
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-left
+  x = 3
+  y = -105
+  width = 344
+  height = 31
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 9b0bd214-a76f-4a59-990f-b61db88116a4-1725662751559
+  [loading_requirement_container_meta:9b0bd214-a76f-4a59-990f-b61db88116a4-1725662751559] = [groups:][instances:3a1714f3-9c58-4f1c-ad9b-ed19f78b3888-1725663686001;]
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:3a1714f3-9c58-4f1c-ad9b-ed19f78b3888-1725663686001] = menu_join:true
+}
+
+element {
+  audio_instance_0 = [source:local]/config/fancymenu/assets/deepdarkinst.ogg
+  play_mode = normal
+  looping = true
+  volume = 0.21
+  sound_source = master
+  element_type = audio_v2
+  instance_identifier = 17638270-fe66-4ac6-a3c6-4cd37f304bed-1725668635915
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -111
+  y = -131
+  width = 100
+  height = 100
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = b196b782-4c36-40ca-826d-4458bef4346a-1725668635915
+  [loading_requirement_container_meta:b196b782-4c36-40ca-826d-4458bef4346a-1725668635915] = [groups:][instances:]
+}
+

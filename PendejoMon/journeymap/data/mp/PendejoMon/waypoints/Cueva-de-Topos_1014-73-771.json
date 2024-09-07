@@ -1,0 +1,24 @@
+{
+  "id": "Cueva-de-Topos_1014-73-771",
+  "name": "Cueva de Topos",
+  "groupName": ":Waystones",
+  "displayId": "41751f13-5a51-4c75-aeee-e20a2a5b9084",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": 1014,
+  "y": 73,
+  "z": 771,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": false,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "Casa-Dekku-Bex_35-72-292",
+  "name": "Casa Dekku/Bex",
+  "groupName": ":Waystones",
+  "displayId": "6f172775-f39a-49a7-a329-2c5af0b0c7d2",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": 35,
+  "y": 72,
+  "z": 292,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}
