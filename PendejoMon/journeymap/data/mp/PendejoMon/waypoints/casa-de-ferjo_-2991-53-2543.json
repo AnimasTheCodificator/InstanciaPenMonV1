@@ -1,0 +1,24 @@
+{
+  "id": "casa-de-ferjo_-2991-53-2543",
+  "name": "casa de ferjo",
+  "groupName": ":Waystones",
+  "displayId": "57f35d61-b1b2-47f1-b8e3-d5160c1c2a62",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": -2991,
+  "y": 53,
+  "z": -2543,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

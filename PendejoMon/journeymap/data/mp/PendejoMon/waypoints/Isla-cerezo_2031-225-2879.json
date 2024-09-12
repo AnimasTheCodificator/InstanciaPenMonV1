@@ -1,0 +1,24 @@
+{
+  "id": "Isla-cerezo_2031-225-2879",
+  "name": "Isla cerezo",
+  "groupName": ":Waystones",
+  "displayId": "796af9b2-380a-4249-b1b6-b3d1b0318f14",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": 2031,
+  "y": 225,
+  "z": -2879,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

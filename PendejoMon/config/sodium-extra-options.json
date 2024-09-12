@@ -1,6 +1,6 @@
 {
   "animation_settings": {
-    "animation": true,
+    "animation": false,
     "water": true,
     "lava": true,
     "fire": true,
@@ -9,24 +9,24 @@
     "sculk_sensor": true
   },
   "particle_settings": {
-    "particles": true,
+    "particles": false,
     "rain_splash": true,
     "block_break": true,
     "block_breaking": true,
     "other": {}
   },
   "detail_settings": {
-    "sky": true,
-    "sun_moon": true,
-    "stars": true,
+    "sky": false,
+    "sun_moon": false,
+    "stars": false,
     "rain_snow": false,
-    "biome_colors": true,
-    "sky_colors": true
+    "biome_colors": false,
+    "sky_colors": false
   },
   "render_settings": {
-    "fog_type": "DEFAULT",
+    "fog_type": "MOD_COMPAT",
     "fog_distance": 0,
-    "fog_start": 49,
+    "fog_start": 0,
     "multi_dimension_fog_control": false,
     "dimensionFogDistance": {
       "minecraft:overworld": 0
@@ -36,7 +36,7 @@
     "armor_stand": true,
     "painting": true,
     "piston": true,
-    "beacon_beam": true,
+    "beacon_beam": false,
     "enchanting_table_book": true,
     "item_frame_name_tag": true,
     "player_name_tag": true

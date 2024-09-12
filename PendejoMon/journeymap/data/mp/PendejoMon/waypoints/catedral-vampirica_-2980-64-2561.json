@@ -1,0 +1,24 @@
+{
+  "id": "catedral-vampirica_-2980-64-2561",
+  "name": "catedral vampirica",
+  "groupName": ":Waystones",
+  "displayId": "ff082b14-4a6f-42f5-8806-909f267af8e3",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": -2980,
+  "y": 64,
+  "z": -2561,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "islita_2234-69-1995",
+  "name": "islita",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16473784-waypoint-icon.png",
+  "x": 2234,
+  "y": 69,
+  "z": -1995,
+  "r": 4,
+  "g": 161,
+  "b": 72,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

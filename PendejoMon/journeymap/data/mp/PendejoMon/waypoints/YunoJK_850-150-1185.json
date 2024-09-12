@@ -1,0 +1,24 @@
+{
+  "id": "YunoJK_850-150-1185",
+  "name": "YunoJK",
+  "groupName": ":Waystones",
+  "displayId": "5d92f68f-4af0-40e6-aa3b-f3cdab1ab4b2",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": 850,
+  "y": 150,
+  "z": 1185,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

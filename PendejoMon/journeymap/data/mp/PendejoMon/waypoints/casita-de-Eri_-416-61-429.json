@@ -1,0 +1,24 @@
+{
+  "id": "casita-de-Eri_-416-61-429",
+  "name": "casita de Eri",
+  "groupName": ":Waystones",
+  "displayId": "35793a80-2d1d-4d23-a3c1-ae2c0325b1a7",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": -416,
+  "y": 61,
+  "z": -429,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

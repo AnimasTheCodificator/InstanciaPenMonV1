@@ -1,0 +1,24 @@
+{
+  "id": "asx_-98-69-199",
+  "name": "asx",
+  "groupName": ":Waystones",
+  "displayId": "2ffa59aa-23ef-4f05-a865-e24c3742e181",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": -98,
+  "y": 69,
+  "z": 199,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

@@ -1,7 +1,7 @@
-[18:20:57][FINE/MorePlayerModels][noppes.mpm.MorePlayerModels:125] Sat Sep 07 18:20:57 CEST 2024
-[18:20:57][FINE/MorePlayerModels][noppes.mpm.MorePlayerModels:125] Loading
-[18:20:57][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] Error in geckolib:animations/block/botarium.animation.json
-[18:20:57][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] noppes.mpm.util.MpmException: Error in animation: format_version
+[16:54:17][FINE/MorePlayerModels][noppes.mpm.MorePlayerModels:125] Wed Sep 11 16:54:17 CEST 2024
+[16:54:17][FINE/MorePlayerModels][noppes.mpm.MorePlayerModels:125] Loading
+[16:54:17][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] Error in geckolib:animations/block/botarium.animation.json
+[16:54:17][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] noppes.mpm.util.MpmException: Error in animation: format_version
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPart.loadAnimations(MpmPart.java:126)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPartReader.reload(MpmPartReader.java:42)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.ClientProxy.lambda$load$1(ClientProxy.java:71)
@@ -25,8 +25,8 @@ Caused by: java.lang.IllegalArgumentException: No enum constant noppes.mpm.const
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.constants.EnumAnimation.valueOf(EnumAnimation.java:3)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPart.loadAnimations(MpmPart.java:83)
 	... 17 more
-[18:20:57][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] Error in geckolib:animations/block/fertilizer.animation.json
-[18:20:57][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] noppes.mpm.util.MpmException: Error in animation: format_version
+[16:54:17][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] Error in geckolib:animations/block/fertilizer.animation.json
+[16:54:17][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] noppes.mpm.util.MpmException: Error in animation: format_version
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPart.loadAnimations(MpmPart.java:126)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPartReader.reload(MpmPartReader.java:42)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.ClientProxy.lambda$load$1(ClientProxy.java:71)
@@ -50,8 +50,8 @@ Caused by: java.lang.IllegalArgumentException: No enum constant noppes.mpm.const
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.constants.EnumAnimation.valueOf(EnumAnimation.java:3)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPart.loadAnimations(MpmPart.java:83)
 	... 17 more
-[18:20:57][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] Error in geckolib:animations/block/gecko_habitat.animation.json
-[18:20:57][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] noppes.mpm.util.MpmException: Error in animation: format_version
+[16:54:17][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] Error in geckolib:animations/block/gecko_habitat.animation.json
+[16:54:17][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] noppes.mpm.util.MpmException: Error in animation: format_version
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPart.loadAnimations(MpmPart.java:126)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPartReader.reload(MpmPartReader.java:42)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.ClientProxy.lambda$load$1(ClientProxy.java:71)
@@ -75,8 +75,8 @@ Caused by: java.lang.IllegalArgumentException: No enum constant noppes.mpm.const
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.constants.EnumAnimation.valueOf(EnumAnimation.java:3)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPart.loadAnimations(MpmPart.java:83)
 	... 17 more
-[18:20:57][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] Error in geckolib:animations/entity/bat.animation.json
-[18:20:57][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] noppes.mpm.util.MpmException: Error in animation: format_version
+[16:54:17][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] Error in geckolib:animations/entity/bat.animation.json
+[16:54:17][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] noppes.mpm.util.MpmException: Error in animation: format_version
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPart.loadAnimations(MpmPart.java:126)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPartReader.reload(MpmPartReader.java:42)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.ClientProxy.lambda$load$1(ClientProxy.java:71)
@@ -100,8 +100,8 @@ Caused by: java.lang.IllegalArgumentException: No enum constant noppes.mpm.const
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.constants.EnumAnimation.valueOf(EnumAnimation.java:3)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPart.loadAnimations(MpmPart.java:83)
 	... 17 more
-[18:20:57][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] Error in geckolib:animations/entity/bike.animation.json
-[18:20:57][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] noppes.mpm.util.MpmException: Error in animation: format_version
+[16:54:17][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] Error in geckolib:animations/entity/bike.animation.json
+[16:54:17][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] noppes.mpm.util.MpmException: Error in animation: format_version
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPart.loadAnimations(MpmPart.java:126)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPartReader.reload(MpmPartReader.java:42)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.ClientProxy.lambda$load$1(ClientProxy.java:71)
@@ -125,8 +125,8 @@ Caused by: java.lang.IllegalArgumentException: No enum constant noppes.mpm.const
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.constants.EnumAnimation.valueOf(EnumAnimation.java:3)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPart.loadAnimations(MpmPart.java:83)
 	... 17 more
-[18:20:57][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] Error in geckolib:animations/entity/cool_kid.animation.json
-[18:20:57][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] noppes.mpm.util.MpmException: Error in animation: format_version
+[16:54:17][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] Error in geckolib:animations/entity/cool_kid.animation.json
+[16:54:17][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] noppes.mpm.util.MpmException: Error in animation: format_version
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPart.loadAnimations(MpmPart.java:126)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPartReader.reload(MpmPartReader.java:42)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.ClientProxy.lambda$load$1(ClientProxy.java:71)
@@ -150,8 +150,8 @@ Caused by: java.lang.IllegalArgumentException: No enum constant noppes.mpm.const
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.constants.EnumAnimation.valueOf(EnumAnimation.java:3)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPart.loadAnimations(MpmPart.java:83)
 	... 17 more
-[18:20:57][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] Error in geckolib:animations/entity/creeper.animation.json
-[18:20:57][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] noppes.mpm.util.MpmException: Error in animation: format_version
+[16:54:17][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] Error in geckolib:animations/entity/creeper.animation.json
+[16:54:17][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] noppes.mpm.util.MpmException: Error in animation: format_version
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPart.loadAnimations(MpmPart.java:126)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPartReader.reload(MpmPartReader.java:42)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.ClientProxy.lambda$load$1(ClientProxy.java:71)
@@ -175,8 +175,8 @@ Caused by: java.lang.IllegalArgumentException: No enum constant noppes.mpm.const
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.constants.EnumAnimation.valueOf(EnumAnimation.java:3)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPart.loadAnimations(MpmPart.java:83)
 	... 17 more
-[18:20:57][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] Error in geckolib:animations/entity/fake_glass.animation.json
-[18:20:57][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] noppes.mpm.util.MpmException: Error in animation: format_version
+[16:54:17][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] Error in geckolib:animations/entity/fake_glass.animation.json
+[16:54:17][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] noppes.mpm.util.MpmException: Error in animation: format_version
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPart.loadAnimations(MpmPart.java:126)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPartReader.reload(MpmPartReader.java:42)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.ClientProxy.lambda$load$1(ClientProxy.java:71)
@@ -200,8 +200,8 @@ Caused by: java.lang.IllegalArgumentException: No enum constant noppes.mpm.const
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.constants.EnumAnimation.valueOf(EnumAnimation.java:3)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPart.loadAnimations(MpmPart.java:83)
 	... 17 more
-[18:20:58][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] Error in geckolib:animations/entity/gremlin.animation.json
-[18:20:58][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] noppes.mpm.util.MpmException: Error in animation: format_version
+[16:54:17][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] Error in geckolib:animations/entity/gremlin.animation.json
+[16:54:17][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] noppes.mpm.util.MpmException: Error in animation: format_version
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPart.loadAnimations(MpmPart.java:126)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPartReader.reload(MpmPartReader.java:42)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.ClientProxy.lambda$load$1(ClientProxy.java:71)
@@ -225,8 +225,8 @@ Caused by: java.lang.IllegalArgumentException: No enum constant noppes.mpm.const
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.constants.EnumAnimation.valueOf(EnumAnimation.java:3)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPart.loadAnimations(MpmPart.java:83)
 	... 17 more
-[18:20:58][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] Error in geckolib:animations/entity/mutant_zombie.animation.json
-[18:20:58][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] noppes.mpm.util.MpmException: Error in animation: format_version
+[16:54:17][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] Error in geckolib:animations/entity/mutant_zombie.animation.json
+[16:54:17][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] noppes.mpm.util.MpmException: Error in animation: format_version
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPart.loadAnimations(MpmPart.java:126)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPartReader.reload(MpmPartReader.java:42)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.ClientProxy.lambda$load$1(ClientProxy.java:71)
@@ -250,8 +250,8 @@ Caused by: java.lang.IllegalArgumentException: No enum constant noppes.mpm.const
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.constants.EnumAnimation.valueOf(EnumAnimation.java:3)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPart.loadAnimations(MpmPart.java:83)
 	... 17 more
-[18:20:58][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] Error in geckolib:animations/entity/parasite.animation.json
-[18:20:58][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] noppes.mpm.util.MpmException: Error in animation: format_version
+[16:54:17][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] Error in geckolib:animations/entity/parasite.animation.json
+[16:54:17][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] noppes.mpm.util.MpmException: Error in animation: format_version
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPart.loadAnimations(MpmPart.java:126)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPartReader.reload(MpmPartReader.java:42)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.ClientProxy.lambda$load$1(ClientProxy.java:71)
@@ -275,8 +275,8 @@ Caused by: java.lang.IllegalArgumentException: No enum constant noppes.mpm.const
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.constants.EnumAnimation.valueOf(EnumAnimation.java:3)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPart.loadAnimations(MpmPart.java:83)
 	... 17 more
-[18:20:58][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] Error in geckolib:animations/entity/race_car.animation.json
-[18:20:58][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] noppes.mpm.util.MpmException: Error in animation: format_version
+[16:54:17][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] Error in geckolib:animations/entity/race_car.animation.json
+[16:54:17][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] noppes.mpm.util.MpmException: Error in animation: format_version
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPart.loadAnimations(MpmPart.java:126)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPartReader.reload(MpmPartReader.java:42)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.ClientProxy.lambda$load$1(ClientProxy.java:71)
@@ -300,8 +300,8 @@ Caused by: java.lang.IllegalArgumentException: No enum constant noppes.mpm.const
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.constants.EnumAnimation.valueOf(EnumAnimation.java:3)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPart.loadAnimations(MpmPart.java:83)
 	... 17 more
-[18:20:58][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] Error in geckolib:animations/entity/rocket.animation.json
-[18:20:58][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] noppes.mpm.util.MpmException: Error in animation: format_version
+[16:54:17][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] Error in geckolib:animations/entity/rocket.animation.json
+[16:54:17][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] noppes.mpm.util.MpmException: Error in animation: format_version
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPart.loadAnimations(MpmPart.java:126)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPartReader.reload(MpmPartReader.java:42)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.ClientProxy.lambda$load$1(ClientProxy.java:71)
@@ -325,8 +325,8 @@ Caused by: java.lang.IllegalArgumentException: No enum constant noppes.mpm.const
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.constants.EnumAnimation.valueOf(EnumAnimation.java:3)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPart.loadAnimations(MpmPart.java:83)
 	... 17 more
-[18:20:58][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] Error in geckolib:animations/item/armor/gecko_armor.animation.json
-[18:20:58][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] noppes.mpm.util.MpmException: Error in animation: format_version
+[16:54:17][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] Error in geckolib:animations/item/armor/gecko_armor.animation.json
+[16:54:17][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] noppes.mpm.util.MpmException: Error in animation: format_version
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPart.loadAnimations(MpmPart.java:126)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPartReader.reload(MpmPartReader.java:42)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.ClientProxy.lambda$load$1(ClientProxy.java:71)
@@ -350,8 +350,8 @@ Caused by: java.lang.IllegalArgumentException: No enum constant noppes.mpm.const
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.constants.EnumAnimation.valueOf(EnumAnimation.java:3)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPart.loadAnimations(MpmPart.java:83)
 	... 17 more
-[18:20:58][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] Error in geckolib:animations/item/armor/wolf_armor.animation.json
-[18:20:58][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] noppes.mpm.util.MpmException: Error in animation: format_version
+[16:54:17][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] Error in geckolib:animations/item/armor/wolf_armor.animation.json
+[16:54:17][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] noppes.mpm.util.MpmException: Error in animation: format_version
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPart.loadAnimations(MpmPart.java:126)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPartReader.reload(MpmPartReader.java:42)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.ClientProxy.lambda$load$1(ClientProxy.java:71)
@@ -375,8 +375,8 @@ Caused by: java.lang.IllegalArgumentException: No enum constant noppes.mpm.const
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.constants.EnumAnimation.valueOf(EnumAnimation.java:3)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPart.loadAnimations(MpmPart.java:83)
 	... 17 more
-[18:20:58][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] Error in geckolib:animations/item/jack_in_the_box.animation.json
-[18:20:58][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] noppes.mpm.util.MpmException: Error in animation: format_version
+[16:54:17][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] Error in geckolib:animations/item/jack_in_the_box.animation.json
+[16:54:17][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] noppes.mpm.util.MpmException: Error in animation: format_version
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPart.loadAnimations(MpmPart.java:126)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPartReader.reload(MpmPartReader.java:42)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.ClientProxy.lambda$load$1(ClientProxy.java:71)
@@ -400,8 +400,8 @@ Caused by: java.lang.IllegalArgumentException: No enum constant noppes.mpm.const
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.constants.EnumAnimation.valueOf(EnumAnimation.java:3)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPart.loadAnimations(MpmPart.java:83)
 	... 17 more
-[18:20:58][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] Error in ribbits:animations/ribbit.animation.json
-[18:20:58][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] noppes.mpm.util.MpmException: Error in animation: format_version
+[16:54:17][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] Error in ribbits:animations/ribbit.animation.json
+[16:54:17][SEVERE/MorePlayerModels][noppes.mpm.client.parts.MpmPartReader:44] noppes.mpm.util.MpmException: Error in animation: format_version
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPart.loadAnimations(MpmPart.java:126)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.parts.MpmPartReader.reload(MpmPartReader.java:42)
 	at TRANSFORMER/moreplayermodels@1.20.1.20240409/noppes.mpm.client.ClientProxy.lambda$load$1(ClientProxy.java:71)
